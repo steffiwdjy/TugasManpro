@@ -1,0 +1,3 @@
+baris 2 di lokal
+tulis di remote
+tambah lagi di lokal
